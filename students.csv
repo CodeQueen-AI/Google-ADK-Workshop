@@ -1,0 +1,11 @@
+id,name,email,interests,looking_to_connect_with
+1,Alice Johnson,alice@example.com,"AI, Machine Learning, Python","Backend developers, Data scientists"
+2,Bob Smith,bob@example.com,"Web Development, React, TypeScript","Frontend developers, UI designers"
+3,Carol Williams,carol@example.com,"Data Science, Machine Learning, Statistics","AI enthusiasts, Researchers"
+4,David Brown,david@example.com,"Backend Development, Python, FastAPI","AI enthusiasts, Full-stack developers"
+5,Eve Davis,eve@example.com,"UI/UX Design, Figma, User Research","Frontend developers, Product managers"
+6,Frank Miller,frank@example.com,"DevOps, Cloud, Kubernetes","Backend developers, Security experts"
+7,Grace Lee,grace@example.com,"AI, NLP, Deep Learning","Data scientists, Researchers"
+8,Henry Wilson,henry@example.com,"Full-stack Development, React, Node.js","Backend developers, UI designers"
+9,Ivy Chen,ivy@example.com,"Product Management, Agile, Strategy","UI designers, Full-stack developers"
+10,Jack Taylor,jack@example.com,"Security, Cryptography, Ethical Hacking","DevOps engineers, Backend developers"
